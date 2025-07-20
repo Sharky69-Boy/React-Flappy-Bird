@@ -1,0 +1,6 @@
+{
+  "name": "React Flappy Bird",
+  "description": "A clone of the classic Flappy Bird game built with React, TypeScript, and Tailwind CSS. Click or press space to make the bird jump and navigate through the pipes.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
